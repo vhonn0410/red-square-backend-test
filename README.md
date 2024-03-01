@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is designed to [provide a brief description of the project].
+This project is designed to Red Square Backend Test.
 
 ## Table of Contents
 
